@@ -8,3 +8,13 @@ This is a static, responsive pricing page created with HTML and CSS to practice 
 -   Use Flexbox or CSS Grid for horizontal alignment
 -   Learn to apply consistent spacing, card structure, and call-to-action buttons
 -   Emphasize one plan visually to guide user attention
+
+## Features
+
+-   **Responsive Design**: Columns stack vertically on small screens
+-   **Reusable CSS**: Repeated card styles using classes
+
+## Screenshots
+
+![Pricing Page Desktop](/assets/Pricing%20Page%20Desktop.png)
+![Pricing Page Mobile](/assets/Pricing%20Page%20Mobile.png)
