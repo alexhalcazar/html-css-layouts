@@ -7,3 +7,8 @@ This project implements a centered 3x3 red square layout using two different app
 -   Practice traditional block-level element positioning
 -   Learn and apply Flexbox for layout control
 -   Understand how HTML and CSS behave with minimal styling
+
+## Screenshots
+
+No Flex ![Squares with no-flex](assets/no-flex.png)
+With Flex ![Squares with flex](assets/flex.png)
