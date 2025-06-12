@@ -60,7 +60,6 @@ body {
 @media (max-width: 600px) {
     .row {
         flex-wrap: wrap;
-        /* overflow-x: unset; */
     }
 
     .card {
