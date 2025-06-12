@@ -1,0 +1,70 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-width: 100vw;
+    align-items: center;
+    justify-content: top;
+    background-color: gainsboro;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    margin: 1.5rem;
+    gap: 10px;
+}
+
+.card {
+    flex: 1 1 300px;
+    min-width: 200px;
+    background-color: antiquewhite;
+    padding: 1.5rem;
+    border-right: solid;
+}
+
+.card:hover {
+    background-color: orange;
+}
+
+.plan {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.price {
+    font-size: 1.5rem;
+}
+
+.btn {
+    background-color: darkorange;
+    padding: 8px;
+    width: 80%;
+}
+
+.btn:hover {
+    border: 0.2em solid black;
+    font-weight: bold;
+}
+
+.package-header {
+    font-weight: 600;
+}
+
+@media (max-width: 600px) {
+    .row {
+        flex-wrap: wrap;
+        /* overflow-x: unset; */
+    }
+
+    .card {
+        flex: 1 1 100%;
+        max-width: none;
+    }
+}
