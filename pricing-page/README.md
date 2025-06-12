@@ -16,5 +16,5 @@ This is a static, responsive pricing page created with HTML and CSS to practice 
 
 ## Screenshots
 
-![Pricing Page Desktop](/assets/pricing-page-desktop.png)
-![Pricing Page Mobile](/assets/pricing-page-mobile.png)
+![Pricing Page Desktop](assets/pricing-page-desktop.png)
+![Pricing Page Mobile](assets/pricing-page-mobile.png)
